@@ -9,7 +9,7 @@
         <img src="https://img.shields.io/badge/platform-web-blueviolet" alt="Project Platform" />                
         <a href="https://github.com/zevdvlpr/ignite-reactjs-ignews/tree/dev/LICENSE"><img src="https://img.shields.io/github/license/zevdvlpr/ignite-reactjs-ignews?color=red&label=license" alt="Repo License" /></a>
     </p>     
-    <p><a href="https://www.linkedin.com/in/zevdvlpr" target="_blank"><img src="https://img.shields.io/twitter/url?label=Connect%20%40zevdvlpr&logo=linkedin&url=https%3A%2F%2Fwww.twitter.com%2zevdvlpr%2F" alt="Follow" /></a><p>
+    <p><a href="https://www.linkedin.com/in/dev-bruno-mariano/" target="_blank"><img src="https://img.shields.io/twitter/url?label=Connect%20%40bsignx&logo=linkedin&url=https%3A%2F%2Fwww.twitter.com%2zevdvlpr%2F" alt="Follow" /></a><p>
 </div>
 
 # About
